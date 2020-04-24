@@ -1,2 +1,0 @@
-# BookVsUsers
-Created with CodeSandbox
